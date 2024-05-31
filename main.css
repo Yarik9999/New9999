@@ -1,0 +1,24 @@
+body {
+    color: red;
+    background-color: antiquewhite;
+}
+ div h4 {
+    text-decoration: line-through;
+    cursor: grab;
+ }
+
+ .df {
+    background-color: black;
+    color: white;
+
+ }
+ .as {
+    background-color: blue;
+    color: chocolate;
+ }
+ .p1 {
+   position: relative;
+   left: 500px;
+   color: brown;
+   font: 15px sans-serif;
+ }
